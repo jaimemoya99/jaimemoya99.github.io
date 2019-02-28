@@ -1,0 +1,58 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700" rel="stylesheet">
+
+.body {
+	margin: 0px;
+	display: flex;
+	width: 100%;
+	min-height: 10%;
+	background-color: grey;
+	margin-bottom:1vh;
+	justify-content: space-around;
+}
+
+.cabezera {
+	display: flex;
+	width: 100%;
+	min-height: 10%;
+	background-color: grey;
+	margin-bottom:1vh;
+	justify-content: space-around;
+	align-items: center;
+    font-family: 'Oswald', sans-serif;
+	font-weight: 600;
+}
+
+.cabezera2 {
+	display: flex;
+	width: 100%;
+	min-height: 10%;
+	background-color: white;
+	margin-bottom:1vh;
+	justify-content: space-around;
+	font-family: 'Oswald', sans-serif;
+}
+
+.descripcion {
+	text-align: center; 
+	font-family: 'Oswald', sans-serif;
+}
+
+.footer {
+	display: flex;
+	width: 100%;
+	min-height: 10%;
+	background-color: grey;
+	margin-bottom:1vh;
+	justify-content: space-around;
+	font-family: 'Oswald', sans-serif;
+}
+
+.icono{
+	font-size: 40px;
+}
+
+
+.elemRedSocial {
+	display: flex;	
+	border: solid 2px black;
+}
