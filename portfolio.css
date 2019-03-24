@@ -10,7 +10,7 @@
 	justify-content: space-around;
 }
 
-.cabezera {
+.cabecera {
 	display: flex;
 	width: 100%;
 	min-height: 10%;
@@ -19,16 +19,25 @@
 	justify-content: space-around;
 	align-items: center;
     font-family: 'Oswald', sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 }
 
-.cabezera2 {
+
+.cabecera2 {
 	display: flex;
 	width: 100%;
 	min-height: 10%;
 	background-color: white;
 	margin-bottom:1vh;
 	justify-content: space-around;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 600;
+		align-items: center;
+	
+}
+
+.Nombre-Foto {
+	text-align: center; 
 	font-family: 'Oswald', sans-serif;
 }
 
@@ -43,16 +52,26 @@
 	min-height: 10%;
 	background-color: grey;
 	margin-bottom:1vh;
-	justify-content: space-around;
-	font-family: 'Oswald', sans-serif;
+	justify-content: center;
+	align-items: center;
+    font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	
 }
 
 .icono{
 	font-size: 40px;
+	margin-right: 10px;
 }
 
 
 .elemRedSocial {
-	display: flex;	
-	border: solid 2px black;
+	display: flex;		
 }
+
+.slider-imagenes {
+	opacity:0.8;
+}
+
+
+
