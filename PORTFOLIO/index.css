@@ -32,18 +32,23 @@
 	justify-content: space-around;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 600;
-		align-items: center;
+	align-items: center;
 	
 }
 
 .Nombre-Foto {
 	text-align: center; 
 	font-family: 'Oswald', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
 }
 
 .descripcion {
 	text-align: center; 
 	font-family: 'Oswald', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 600;
+	
 }
 
 .footer {
@@ -69,9 +74,8 @@
 	display: flex;		
 }
 
-.slider-imagenes {
-	opacity:0.8;
-}
+
+
 
 
 
